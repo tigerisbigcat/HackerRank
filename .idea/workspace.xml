@@ -17,6 +17,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,6 +28,14 @@
       <option name="presentableId" value="Default" />
       <updated>1617676473839</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1617676843715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617676843715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -39,8 +48,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="322" y="23" key="CommitChangelistDialog2" timestamp="1617676843500">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="322" y="23" key="CommitChangelistDialog2/0.23.1440.810@0.23.1440.810" timestamp="1617676843500" />
     <state x="543" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617676517165">
       <screen x="0" y="23" width="1440" height="810" />
     </state>
