@@ -16,7 +16,6 @@ def checkMagazine(magazine, note):
             d[word] -= 1
         else:
             d[word] = -1
-
     result = all([x >= 0 for x in d.values()])
 
     if result:
